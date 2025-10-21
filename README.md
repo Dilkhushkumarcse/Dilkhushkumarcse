@@ -21,8 +21,11 @@ npx github-transform
 
 
 ### 📊 GitHub Stats
-![Dilkhush's GitHub stats](https://github-transform.vercel.app/api?username=DilkhushKumar&show_icons=true&theme=radical)
-![Top Languages](https://github-transform.vercel.app/api/top-langs/?username=DilkhushKumar&layout=compact&theme=tokyonight)
+
+![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilkhushKumar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumar&layout=compact&theme=tokyonight)
+
 
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-transform.vercel.app/activity-graph?username=DilkhushKumar&theme=github)
