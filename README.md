@@ -22,18 +22,17 @@ npx github-transform
 
 ### 📊 GitHub Stats
 
-![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilkhushKumar&show_icons=true&theme=radical)
+![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumar&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&theme=tokyonight)
 
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-transform.vercel.app/activity-graph?username=DilkhushKumar&theme=github)
+![GitHub Activity Graph](https://github-transform.vercel.app/activity-graph?username=DilkhushKumarcse&theme=github)
 
 ### ✨ Developer Quote
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-transform.vercel.app/api/trophies?username=DilkhushKumar&theme=dracula)
-
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github)
 
