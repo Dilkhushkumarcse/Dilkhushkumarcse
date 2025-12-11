@@ -31,7 +31,7 @@ Predicting housing prices using ML with feature engineering, EDA & model compari
 ML model using Random Forest with 97% accuracy.  
 🔗 *GitHub Repo:* (https://github.com/Dilkhushkumarcse/student-performance-prediction)
 
-### 🔸 **RAG-based Teaching Platform **
+### 🔸 **RAG-based Teaching Platform**
 LLM + RAG integrated platform for automated learning assistance.
 🔗 *GitHub Repo:* (https://github.com/Dilkhushkumarcse/RAG-based-AI-Teaching-Assistant)
 
@@ -109,7 +109,11 @@ LLM + RAG integrated platform for automated learning assistance.
 ## 🏆 Achievements
 
 <div align="center">
+  <!-- Primary trophy card (should work). If it fails, use the shield fallback below. -->
   <img src="https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
+
+  <!-- Fallback (uncomment if the trophy host is down) -->
+  <!-- <p><img src="https://img.shields.io/badge/Achievements-Trophies-blue?style=for-the-badge" alt="Trophies fallback" /></p> -->
 </div>
 
 ### 🌐 Connect With Me
