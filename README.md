@@ -115,7 +115,7 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 
 <br>
 
-### 🌐 **Let’s Connect & Grow Together
+### 🌐 **Let’s Connect & Grow Together**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilkhush-kumar-b58664273/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dilkhushpersonalportfolio.netlify.app/)
