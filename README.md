@@ -82,7 +82,7 @@ LLM + RAG integrated platform for automated learning assistance.
 <p align="center">
 
 <!-- Version badge -->
-<img src="https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge&logo=github" alt="version" />
+<img src="https://img.shields.io/badge/Contribution-Streak-green?style=for-the-badge" />
 
 </p>
 
@@ -92,7 +92,7 @@ LLM + RAG integrated platform for automated learning assistance.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 <!-- Top languages (primary) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&langs_count=10&theme=tokyonight)
+![Top Languages](https://github-readme-stats-nu-hazel.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&theme=tokyonight)
 
 </p>
 
