@@ -1,4 +1,4 @@
-<!-- 👋 Intro Section -->
+<!--  Intro Section -->
 # Hi there, I'm Dilkhush Kumar 👨‍💻
 
 🎓 B.Tech in Computer Science & Engineering  
@@ -8,16 +8,16 @@
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working on **Data Science projects**  
-- 🌱 Learning **Advanced Machine Learning**, **Deep Learning**, and **Big Data**  
-- 💬 Ask me about **Python, ML, Data Analysis**  
-- 🎯 Goal: To become a **Data Scientist ** at a top MNC  
-- ⚡ Fun fact: I love Hindi Shayari and coffee-powered coding  
+### About Me
+- I’m currently working on **Data Science projects**  
+- Learning **Advanced Machine Learning**, **Deep Learning**, and **Big Data**  
+- Ask me about **Python, ML, Data Analysis**  
+- Goal: To become a **Data Scientist ** at a top MNC  
+- Fun fact: I love Hindi Shayari and coffee-powered coding  
 
 ---
 
-### 💻 Skills & Tools
+### Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
