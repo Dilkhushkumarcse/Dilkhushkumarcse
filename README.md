@@ -89,7 +89,7 @@ LLM + RAG integrated platform for automated learning assistance.
 <p align="center">
 
 <!-- Main GitHub stats (primary) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-nu-hazel.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&theme=tokyonight)
 
 <!-- Top languages (primary) -->
 ![Top Languages](https://github-readme-stats-nu-hazel.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&theme=tokyonight)
@@ -110,20 +110,8 @@ LLM + RAG integrated platform for automated learning assistance.
 
 </p>
 
----
-
 ## 🏆 Achievements
-<p align="center">
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6)
-</p>
-
----
-
-### Fallbacks (use these *only if* the primary cards fail)
-If any of the above images show broken icons, replace the corresponding URL with the fallback below:
-
-- Top Languages fallback:
-
 
 
 ### 🌐 Connect With Me
