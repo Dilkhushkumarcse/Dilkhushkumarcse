@@ -15,6 +15,7 @@
 - Fun fact: My best ideas come with tea + Hindi Shayari
 
 ***What I Do***
+
 Build ML models that solve real-world problems
 Work with Python, Pandas, NumPy, Scikit-Learn, TensorFlow
 Develop AI applications using Flask, APIs, and LLMs
@@ -40,12 +41,8 @@ LLM + RAG integrated platform for automated learning assistance.
 
 ## **Programming Languages**
 
-```md
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-```
-
----
 
 ## **Data Science & Analytics**
 
@@ -53,61 +50,42 @@ LLM + RAG integrated platform for automated learning assistance.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=seaborn&logoColor=white)
-```
-
----
 
 ## **Machine Learning & AI**
 
-```md
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-0A7E8C?style=for-the-badge&logo=openai&logoColor=white)
-```
-
----
 
 ## **Tools & Platforms**
 
-```md
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-```
-
----
 
 ## **Version Control & Productivity**
 
-```md
 ![Version Control](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-```
-
----
 
 ## **Soft Skills**
 
-```md
 ![Communication](https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge&logo=googlechat&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-1976D2?style=for-the-badge&logo=handshake&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-9C27B0?style=for-the-badge&logo=anchor&logoColor=white)
 ![Time Management](https://img.shields.io/badge/Time%20Management-FF9800?style=for-the-badge&logo=clock&logoColor=white)
-```
-
---
 
 ### GitHub Stats
 
-![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&theme=tokyonight)
+![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?user=DilkhushKumarcse&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=DilkhushKumarcse&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?user=DilkhushKumarcse&theme=github-compact)
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?user=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6)
 
 
 ---
