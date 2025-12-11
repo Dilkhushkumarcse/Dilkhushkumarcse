@@ -103,20 +103,19 @@ LLM + RAG integrated platform for automated learning assistance.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact" alt="GitHub Activity Graph" />
 
 </div>
-
 ---
 
-## 🏆 Achievements
+## Thank You for Visiting!
 
 <div align="center">
-  <!-- Primary trophy card (should work). If it fails, use the shield fallback below. -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
 
-  <!-- Fallback (uncomment if the trophy host is down) -->
-  <!-- <p><img src="https://img.shields.io/badge/Achievements-Trophies-blue?style=for-the-badge" alt="Trophies fallback" /></p> -->
-</div>
+Thanks for checking out my GitHub profile!  
+I’m always learning, building, and exploring new things in **Data Science, ML, AI, and LLMs**.  
+Feel free to explore my repositories and reach out if you want to collaborate or discuss anything tech-related!
 
-### 🌐 Connect With Me
+<br>
+
+### 🌐 **Let’s Connect & Grow Together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilkhush-kumar-b58664273/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dilkhushpersonalportfolio.netlify.app/)
@@ -124,4 +123,16 @@ LLM + RAG integrated platform for automated learning assistance.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_dilkhush_45/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilkhush4kr@gmail.com)
 
-**"Keep Learning, Keep Building, Keep Growing!"**
+
+<br><br>
+
+*"Learning never stops — keep building, keep growing."*
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Made%20with❤️%20by-Dilkhush%20Kumar-blueviolet?style=for-the-badge">
+
+</div>
+
+---
+
