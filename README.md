@@ -77,32 +77,53 @@ LLM + RAG integrated platform for automated learning assistance.
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-9C27B0?style=for-the-badge&logo=anchor&logoColor=white)
 ![Time Management](https://img.shields.io/badge/Time%20Management-FF9800?style=for-the-badge&logo=clock&logoColor=white)
 
-<div align="center">
+## 📊 GitHub Stats
 
-  <p>
-    <img src="https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge&logo=github" alt="version" />
-  </p>
+<p align="center">
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Dilkhush's GitHub stats" height="180" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" height="180" />
-  </p>
+<!-- Version badge -->
+<img src="https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge&logo=github" alt="version" />
 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight&hide_border=false" alt="GitHub Streak" />
-  </p>
+</p>
 
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact" alt="GitHub Activity Graph" />
-  </p>
+<p align="center">
 
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
-  </p>
+<!-- Main GitHub stats (primary) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
+<!-- Top languages (primary) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&langs_count=10&theme=tokyonight)
+
+</p>
+
+<p align="center">
+
+<!-- Streak (primary) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight&hide_border=false)
+
+</p>
+
+<p align="center">
+
+<!-- Activity graph (primary) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact)
+
+</p>
+
+---
 
 ## 🏆 Achievements
-</div>
+<p align="center">
+![Trophies](https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6)
+</p>
+
+---
+
+### Fallbacks (use these *only if* the primary cards fail)
+If any of the above images show broken icons, replace the corresponding URL with the fallback below:
+
+- Top Languages fallback:
+
 
 
 ### 🌐 Connect With Me
