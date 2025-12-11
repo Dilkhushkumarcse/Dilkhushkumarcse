@@ -79,7 +79,6 @@ LLM + RAG integrated platform for automated learning assistance.
 
 ### GitHub Stats
 
-
 <div align="center">
 
   <!-- Version badge -->
@@ -94,22 +93,21 @@ LLM + RAG integrated platform for automated learning assistance.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" height="180" />
   </p>
 
-  <!-- Streak & Activity Graph -->
+  <!-- Streak Stats -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight&hide_border=false" alt="GitHub Streak" />
   </p>
 
+  <!-- Activity Graph -->
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact" alt="GitHub Activity Graph" />
   </p>
 
-  <!-- Trophies as a nice extra -->
+  <!-- Achievements / Trophies -->
+  <h2>Achievements</h2>
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
   </p>
-
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6)
 
 </div>
 
@@ -120,8 +118,6 @@ LLM + RAG integrated platform for automated learning assistance.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dilkhushpersonalportfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dilkhushkumarcse)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_dilkhush_45/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilkhush4kr@gmail.com)
 
 **"Keep Learning, Keep Building, Keep Growing!"**
