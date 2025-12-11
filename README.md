@@ -1,12 +1,12 @@
 <!--  Intro Section -->
-**Hi there, I'm Dilkhush Kumar** 👨‍💻
+***Hi there, I'm Dilkhush Kumar*** 👨‍💻
 
 - B.Tech | Computer Science & Engineering
 - Passionate about Data Science, Machine Learning, and Artificial Intelligence
 - Exploring AI · ML · Deep Learning · LLMs
 - I love transforming data into insights and ideas into impactful solutions
 
--- **About Me**
+***About Me***
 
 - Currently working on Machine Learning & Data Science projects
 - Learning Advanced ML, Deep Learning, and LLM-based AI Systems
@@ -14,7 +14,7 @@
 - Goal: Become a skilled and impactful Data Scientist
 - Fun fact: My best ideas come with tea + Hindi Shayari
 
--- **What I Do**
+***What I Do***
 Build ML models that solve real-world problems
 Work with Python, Pandas, NumPy, Scikit-Learn, TensorFlow
 Develop AI applications using Flask, APIs, and LLMs
@@ -24,18 +24,15 @@ Experiment with Embeddings, Vector DBs, RAG & AI Automation
 
 ### 🔸 **California House Price Prediction**
 Predicting housing prices using ML with feature engineering, EDA & model comparison.  
-🔗 *GitHub Repo:* (add link)
+🔗 *GitHub Repo:* (https://github.com/Dilkhushkumarcse/House-Price-Prediction)
 
-### 🔸 **Predict Tomorrow's Temperature**
+### 🔸 **Predict Student Performance**
 ML model using Random Forest with 97% accuracy.  
-🔗 *GitHub Repo:* (add link)
+🔗 *GitHub Repo:* (https://github.com/Dilkhushkumarcse/student-performance-prediction)
 
 ### 🔸 **RAG-based Teaching Platform **
 LLM + RAG integrated platform for automated learning assistance.
-🔗 *GitHub Repo:* (add link)
-
-Here is your **updated, categorized, GitHub-README-ready Skills section** including **PowerPoint** and **Soft Skills** (with clean badges).
-Just **copy–paste** into your `README.md`.
+🔗 *GitHub Repo:* (https://github.com/Dilkhushkumarcse/RAG-based-AI-Teaching-Assistant)
 
 ---
 
@@ -52,7 +49,6 @@ Just **copy–paste** into your `README.md`.
 
 ## **Data Science & Analytics**
 
-```md
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
