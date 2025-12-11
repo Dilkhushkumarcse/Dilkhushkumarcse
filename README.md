@@ -79,40 +79,38 @@ LLM + RAG integrated platform for automated learning assistance.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<!-- Version badge -->
-<img src="https://img.shields.io/badge/Contribution-Streak-green?style=for-the-badge" />
+  <!-- Version badge -->
+  <img src="https://img.shields.io/badge/Contribution-Streak-green?style=for-the-badge" />
 
-</p>
+  <br><br>
 
-<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-nu-hazel.vercel.app/api?username=DilkhushKumarcse&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-nu-hazel.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 
-<!-- Main GitHub stats (primary) -->
-![GitHub Stats](https://github-readme-stats-nu-hazel.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&theme=tokyonight)
+  <br><br>
 
-<!-- Top languages (primary) -->
-![Top Languages](https://github-readme-stats-nu-hazel.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&theme=tokyonight)
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight&hide_border=false" alt="GitHub Streak" />
 
-</p>
+  <br><br>
 
-<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact" alt="GitHub Activity Graph" />
 
-<!-- Streak (primary) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight&hide_border=false)
+</div>
 
-</p>
-
-<p align="center">
-
-<!-- Activity graph (primary) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact)
-
-</p>
+---
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6)
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
+</div>
 
 ### 🌐 Connect With Me
 
