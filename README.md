@@ -79,10 +79,24 @@ LLM + RAG integrated platform for automated learning assistance.
 
 ### GitHub Stats
 
-![Dilkhush's GitHub stats](https://github-readme-stats.vercel.app/api?user=DilkhushKumarcse&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=DilkhushKumarcse&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?user=DilkhushKumarcse&theme=github-compact)
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="180px" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&langs_count=10&theme=tokyonight" height="180px" />
+
+  <!-- GitHub Streak -->
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight&hide_border=false" />
+
+  <!-- Activity Graph -->
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact" />
+
+</div>
+
 
 ## 🏆 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?user=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6)
