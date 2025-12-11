@@ -77,38 +77,31 @@ LLM + RAG integrated platform for automated learning assistance.
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-9C27B0?style=for-the-badge&logo=anchor&logoColor=white)
 ![Time Management](https://img.shields.io/badge/Time%20Management-FF9800?style=for-the-badge&logo=clock&logoColor=white)
 
-### GitHub Stats
-
 <div align="center">
 
-  <!-- Version badge -->
   <p>
     <img src="https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge&logo=github" alt="version" />
   </p>
 
-  <!-- Main GitHub stats (left) and Top Languages (right) -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=DilkhushKumarcse&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Dilkhush's GitHub stats" height="180" />
     &nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilkhushKumarcse&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" height="180" />
   </p>
 
-  <!-- Streak Stats -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilkhushKumarcse&theme=neon-palenight&hide_border=false" alt="GitHub Streak" />
   </p>
 
-  <!-- Activity Graph -->
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilkhushKumarcse&theme=github-compact" alt="GitHub Activity Graph" />
   </p>
 
-  <!-- Achievements / Trophies -->
-  <h2>Achievements</h2>
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=DilkhushKumarcse&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies" />
   </p>
 
+## 🏆 Achievements
 </div>
 
 
