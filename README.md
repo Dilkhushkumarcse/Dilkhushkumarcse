@@ -1,12 +1,12 @@
 <!--  Intro Section -->
-***Hi there, I'm Dilkhush Kumar*** 👨‍💻
+**Hi there, I'm Dilkhush Kumar**👨‍💻
 
 - B.Tech | Computer Science & Engineering
 - Passionate about Data Science, Machine Learning, and Artificial Intelligence
 - Exploring AI · ML · Deep Learning · LLMs
 - I love transforming data into insights and ideas into impactful solutions
 
-***About Me***
+**About Me**
 
 - Currently working on Machine Learning & Data Science projects
 - Learning Advanced ML, Deep Learning, and LLM-based AI Systems
