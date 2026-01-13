@@ -129,7 +129,7 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 
 <br><br>
 
-*"Learning never stops — keep building, keep growing."*
+*"Learning never stops — keep building, keep growing"*
 
 <br><br>
 
