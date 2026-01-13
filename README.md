@@ -10,16 +10,27 @@
 
 - Currently working on Machine Learning & Data Science projects
 - Learning Advanced ML, Deep Learning, and LLM-based AI Systems
-- Ask me about Python, ML, AI, NLP, Data Science
-- Goal: Become a skilled and impactful Data Scientist
+- Strong foundation in Data Analytics & Business Intelligence
+- Ask me about Python, ML, AI, NLP, Data Science, Data Analytics
+- Hands-on experience with data cleaning, EDA, KPI analysis, and insights generation
 - Fun fact: My best ideas come with tea + Hindi Shayari
 
 **What I Do**
 
-Build ML models that solve real-world problems
-Work with Python, Pandas, NumPy, Scikit-Learn, TensorFlow
-Develop AI applications using Flask, APIs, and LLMs
-Experiment with Embeddings, Vector DBs, RAG & AI Automation
+- Build ML models that solve real-world problems
+- Work with Python, Pandas, NumPy, Scikit-Learn, TensorFlow
+- Develop AI applications using Flask, APIs, and LLMs
+- Experiment with Embeddings, Vector DBs, RAG & AI Automation
+- Analyze datasets to extract actionable business insights
+- Perform EDA, feature engineering, and statistical analysis
+
+## Data Analytics Expertise
+
+- Perform Exploratory Data Analysis (EDA) to uncover trends, patterns, and anomalies
+- Clean, preprocess, and transform large datasets for accurate analysis
+- Write optimized SQL queries for data extraction and reporting
+- Build insight-driven reports & dashboards for business decision-making
+- Translate raw numbers into clear stories for non-technical audiences
 
 ## Featured Projects
 
@@ -53,6 +64,25 @@ LLM + RAG integrated platform for automated learning assistance.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=seaborn&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-673AB7?style=for-the-badge&logo=mathworks&logoColor=white)
+
+## **Data Analytics & Business Intelligence**
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-FF5722?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9C27B0?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+## **Database & Querying**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Analytics](https://img.shields.io/badge/SQL%20Analytics-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## **Machine Learning & AI**
 
