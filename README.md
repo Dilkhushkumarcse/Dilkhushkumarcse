@@ -70,32 +70,26 @@ LLM + RAG integrated platform for automated learning assistance.
 
 ## **Data Analytics & Business Intelligence**
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-FF5722?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9C27B0?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ## **Database & Querying**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Analytics](https://img.shields.io/badge/SQL%20Analytics-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## **Machine Learning & AI**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-0A7E8C?style=for-the-badge&logo=openai&logoColor=white)
 
 ## **Tools & Platforms**
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## **Version Control & Productivity**
 
