@@ -1,6 +1,6 @@
 <!--  HEADER -->
 <h1 align="center">Hi , I'm Dilkhush Kumar</h1>
-<h3 align="center">Data Analyst & Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst & Machine Learning</h3>
 
 ##  About Me
 
