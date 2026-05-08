@@ -1,7 +1,7 @@
 <!--  HEADER -->
 <h1 align="center">Hi , I'm Dilkhush Kumar</h1>
 
-### Aspiring Data Analyst | Business Intelligence Enthusiast | B.Tech CSE
+### Aspiring Data Analyst | Business Intelligence Enthusiast
 
 ## About Me
 
